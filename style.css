@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #23252C;
+    color: #DCDCDC;
+    font-size: 16px;
+}
+
+.wrapper {
+    max-width: 317px;
+    background-color: #1A1B21;
+    margin: 44px auto;
+    border-radius: 10px;
+}
+
+.container {
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.info {
+    border-radius: 10px;
+    text-align: center;
+}
+
+.info__image {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 21px;
+}
+
+.info__name {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin: 0 0 6px;
+}
+
+.info__title {
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    color: #F3BF99;
+    margin: 0 0 9px 0;
+}
+
+.info__website {
+    font-size: 10.24px;
+    line-height: 150%; 
+    color: #F5F5F5;
+    text-decoration: none;
+}
+
+.info__website:hover {
+    text-decoration: underline;
+}
+
+.info__email {
+    display: block;
+    margin: 16px 0 32px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    gap: 8px; 
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #374151;
+    text-decoration: none;
+}
+
+.about h3, .interests h3 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #F5F5F5;
+    margin-bottom: 5px;
+}
+
+.about p, .interests p {
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    margin-bottom: 27px;
+}
+
+.footer {
+    background: #161619;
+    padding: 20px 48px;
+    border-radius: 0 0 10px 10px;
+}
+
+.footer__social-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer__social-links>li>a {
+    color: #918E9B;
+    font-size: 25px;
+}
