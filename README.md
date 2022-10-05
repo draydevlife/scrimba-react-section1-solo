@@ -1,4 +1,4 @@
-# co1cb4d228ee36e7b78d62f61
+#Scrimba React Section 1 Solo Project
 
 ## Scrimba Requirements
 https://scrimba.com/learn/learnreact/react-section-1-solo-project-coce646e88eea46f91af43ca4
