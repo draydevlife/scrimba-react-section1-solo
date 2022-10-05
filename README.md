@@ -1,5 +1,11 @@
 # co1cb4d228ee36e7b78d62f61
 
+##Scrimba Requirements
+https://scrimba.com/learn/learnreact/react-section-1-solo-project-coce646e88eea46f91af43ca4
+
+#Design File
+https://www.figma.com/file/ZGUpzocOCMNprXBF3wZpPh/Digital-Business-Card-(Copy)?node-id=0%3A129
+
 Quick start:
 
 ```
