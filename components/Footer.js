@@ -7,17 +7,17 @@ export default function Footer() {
         <footer className="footer">
             <ul className="footer__social-links">
                 <li>                
-                    <a href="https://www.linkedin.com/in/derrickray/">
+                    <a rel='noopener' target='_blank' href="https://www.linkedin.com/in/derrickray/">
                         <FontAwesomeIcon icon={faLinkedin} />
                     </a>
                 </li>
                 <li>                
-                    <a href="https://github.com/draydevlife">
+                    <a rel='noopener' target='_blank' href="https://github.com/draydevlife">
                         <FontAwesomeIcon icon={faSquareGithub} />
                     </a>
                 </li>
                 <li>                
-                    <a href="https://twitter.com/draydevlife">
+                    <a rel='noopener' target='_blank' href="https://twitter.com/draydevlife">
                         <FontAwesomeIcon icon={faSquareTwitter} />
                     </a>
                 </li>
